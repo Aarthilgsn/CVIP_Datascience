@@ -7,7 +7,7 @@
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [ProblemStatement](#ProblemStatement)
+* [Problem Statement](#ProblemStatement)
 * [Solution](#Solution)
 * [AboutDataset](#AboutDataset)
 * [GettingStarted](#GettingStarted)
