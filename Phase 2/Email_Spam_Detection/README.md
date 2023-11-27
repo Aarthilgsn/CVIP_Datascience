@@ -11,7 +11,7 @@ This repository contains code and resources for a machine learning model that ca
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 
-## overview
+## Overview
 
 Spam emails can be a significant problem. This project aims to provide a solution for automatically detecting spam emails using machine learning techniques. 
 The project includes data preprocessing, model development, and evaluation.
