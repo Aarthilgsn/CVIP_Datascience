@@ -6,8 +6,8 @@ This repository contains code and resources for a machine learning model that ca
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Project Structure](#Project Structure)
-- [Getting Started](#Getting Started)
+- [Project Structure](#ProjectStructure)
+- [Getting Started](#GettingStarted)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 
@@ -30,19 +30,16 @@ requirements.txt: List of required Python packages to run the project.
 To get started with this project, follow these steps:
 
 1.Clone this repository to your local machine:
-https://github.com/Aarthilgsn/CVIP_DataScience.git
-
-2.Install the required Python packages:
-pip install -r requirements.txt
-
-## Copy Command
-
-Click the button to copy the command to your clipboard:
-
 ```html
 <button id="copyButton" onclick="copyToClipboard()">https://github.com/Aarthilgsn/CVIP_DataScience.git
 </button>
+html```
 
+2.Install the required Python packages:
+```html
+<button id="copyButton" onclick="copyToClipboard()">pip install -r requirements.txt
+</button>
+html```
 
 Open the Jupyter Notebook Email_Spam_Detection.ipynb to explore the code and perform analysis.
 
