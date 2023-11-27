@@ -10,6 +10,13 @@ Project Structure
 Getting Started
 Usage
 Contribution
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 **Overview**
 
