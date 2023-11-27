@@ -7,7 +7,7 @@
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [Problem Statement](#ProblemStatement)
+* [ProblemStatement](#ProblemStatement)
 * [Solution](#Solution)
 * [AboutDataset](#AboutDataset)
 * [GettingStarted](#GettingStarted)
@@ -26,7 +26,7 @@
 * Speech Emotion Recognition (SER) is a crucial aspect of affective computing, aiming to identify emotions expressed in spoken language. 
 This script demonstrates the development of an effective SER system using machine learning techniques.
 
-## Problem Statement
+## ProblemStatement
 
 * The Problem Statement of this project is to develop a robust speech emotion recognition system capable
 of accurately classifying the emotional states conveyed in spoken language. By analyzing the
@@ -39,7 +39,7 @@ happiness, sadness, anger, fear, and more.
 in human-computer interaction, customer service, mental health monitoring, and entertainment by accurately 
 identifying and responding to emotional states in spoken language
 
-## About Dataset
+## AboutDataset
 
 * The dataset used for this project is sourced from Kaggle: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio/data
 It includes emotional speech audio data that is essential for training and evaluating the Speech Emotion Recognition model.
@@ -71,17 +71,17 @@ pip install pandas numpy librosa seaborn matplotlib scikit-learn keras
 cd speech_emotion_recognition
 ```
 
-## Data Augmentation
+## DataAugmentation
 
 * The script incorporates data augmentation techniques, including noise injection, stretching, shifting, 
 and pitch modification, to enhance the training dataset and prevent overfitting.
 
-## Feature Extraction
+## FeatureExtraction
 
 * Feature extraction is a crucial step in SER. The script extracts features such as zero-crossing rate,
 chroma_stft, MFCC, and Mel spectrogram to represent the acoustic characteristics of speech data.
 
-## Data Preparation
+## DataPreparation
 
 * The data preparation section includes scaling and encoding the dataset to make it 
 compatible with the machine learning model.
