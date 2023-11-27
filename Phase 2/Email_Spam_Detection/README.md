@@ -18,28 +18,35 @@ The project includes data preprocessing, model development, and evaluation.
 
 ## Project Structure
 
+```
 EmailSpamDetection.ipynb: Jupyter Notebook containing the code and analysis.
+```
 
-data.csv: Sample dataset for training and testing the spam email detection model or install in kaggle 
+```
+data.csv: Sample dataset for training and testing the spam email detection model or install in kaggle
+```
+
 https://www.kaggle.com/datasets/venky73/spam-mails-dataset
 
+```
 requirements.txt: List of required Python packages to run the project.
+```
 
 ## Getting Started
 
 To get started with this project, follow these steps:
 
 1.Clone this repository to your local machine:
-```html
-<button id="copyButton" onclick="copyToClipboard()">https://github.com/Aarthilgsn/CVIP_DataScience.git
-</button>
-html```
+
+```bash
+https://github.com/Aarthilgsn/CVIP_DataScience.git
+```
 
 2.Install the required Python packages:
-```html
-<button id="copyButton" onclick="copyToClipboard()">pip install -r requirements.txt
-</button>
-html```
+
+```bash
+pip install -r requirements.txt
+```
 
 Open the Jupyter Notebook Email_Spam_Detection.ipynb to explore the code and perform analysis.
 
